@@ -1,0 +1,53 @@
+baseURL = 'https://marminton.hydra2025.fr/'
+languageCode = 'fr-fr'
+title = 'Hydra MarmINTon'
+theme = 'stack'
+
+
+[[imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+[frontmatter]
+date = ['date', 'publishDate', 'lastmod']
+lastmod = ['lastmod', ':git', 'date', 'publishDate']
+publishDate = ['publishDate', 'date']
+
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+
+[outputs]
+home = ['HTML', 'RSS']
+
+[Params]
+mainSections = ['recettes']
+favicon='favicon.ico'
+
+
+[Params.Sidebar]
+Subtitle = 'Les recettes de la liste Hydra'
+
+## Widgets
+[[widgets.homepage]]
+type = "search"
+
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 5
+
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.homepage]]
+type = "tag-cloud"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.page]]
+type = "toc"
