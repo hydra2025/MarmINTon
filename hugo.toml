@@ -1,7 +1,7 @@
 baseURL = 'https://marminton.hydra2025.fr/'
 languageCode = 'fr-fr'
 title = 'Hydra MarmINTon'
-theme = 'stack'
+theme = 'hugo-theme-stack'
 
 
 [[imports]]
