@@ -4,7 +4,8 @@ date = 2024-11-05T23:00:00+01:00
 draft = false
 description = "La recette de riz au lait servi au dépôt des listes"
 categories = ['Desserts']
-
+portions = '12'
+preparationTime = '45m'
 +++
 
 # Ingredients

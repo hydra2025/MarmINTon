@@ -23,6 +23,8 @@ home = ['HTML', 'RSS']
 mainSections = ['recettes']
 favicon='favicon.ico'
 
+[Params.article]
+readingTime = false
 
 [Params.Sidebar]
 Subtitle = 'Les recettes de la liste Hydra'
