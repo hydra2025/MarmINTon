@@ -41,5 +41,5 @@ categories = ['Desserts']
 10. Une fois la génoise cuite, laissez-la refroidir complètement.
 11. **Étalez** une couche uniforme de confiture sur toute la génoise.
 12. **Coupez** la génoise en deux parts égales.
-13. Étalez une couche de crème d’environ 5 mm d’épaisseur sur une moitié de génoise (veillez à ce qu’elle soit refroidie, sinon la crème fondra).
+13. **Étalez** une couche de crème d’environ 5 mm d’épaisseur sur une moitié de génoise (veillez à ce qu’elle soit refroidie, sinon la crème fondra).
 14. **Superposez** les deux parties de génoise, de manière à obtenir un sandwich avec la confiture et la crème au milieu.
