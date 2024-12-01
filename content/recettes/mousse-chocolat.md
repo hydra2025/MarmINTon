@@ -3,7 +3,7 @@ date = '2024-11-30T23:47:12+01:00'
 draft = false
 title = 'Mousse au Chocolat'
 portions = '6'
-categories = ['Dessert']
+categories = ['Desserts']
 +++
 
 ## Ingrédients
