@@ -14,7 +14,7 @@ categories = ['Entrées', 'Snacks']
 # Ingrédients
 
 - une pâte feuilletée
-- 16 cuillères à café de pâte à tartiner
+- 16 cuillères à café de sauce tomate
 
 # Préparation
 
