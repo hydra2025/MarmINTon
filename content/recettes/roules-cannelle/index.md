@@ -6,8 +6,6 @@ portions='+++'
 categories = ['Desserts', 'Snacks']
 +++
 
-![Roulés Cannelle](roules_cannelle.jpeg)
-
 # Ustensiles
 
 - Couteau
@@ -29,3 +27,5 @@ categories = ['Desserts', 'Snacks']
 5. Enrouler chacune des deux demi-pâtes en veillant à bien serrer les rouleaux.
 6. Couper des tranches de 1 cm d’épaisseur, les disposer en spirale sur la plaque.
 7. Cuire à 200°C pendant 8 minutes, jusqu’à ce que les feuilletés soient dorés.
+
+![Roulés Cannelle](roules_cannelle.jpeg)
