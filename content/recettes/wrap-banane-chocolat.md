@@ -1,5 +1,5 @@
 +++
-date = '2024-12-18T14:00:00+0000'
+date = '2024-12-18T12:30:00+0000'
 draft = false
 title = 'Wrap Banane Chocolat'
 portions = '15'
